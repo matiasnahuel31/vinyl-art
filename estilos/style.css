@@ -786,9 +786,10 @@ body {
         list-style: none;
         color: #ffffff;
     }
+
     .btnComp:hover{
-        background: none;
-        color: #ffffff;
+        filter: invert(1);
+        background-color: none;
     }
 
     #check:checked ~ ul{
