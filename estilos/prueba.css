@@ -227,7 +227,7 @@
 
 }
 
-@media(min-width: 450px) and (max-width: 929px) {
+@media(min-width: 452px) and (max-width: 929px) {
 
     .artQS {
         display: flex;
@@ -286,7 +286,7 @@
 
 }
 
-@media(max-width: 449px) {
+@media(max-width: 451px) {
 
     .artQS {
         display: flex;
