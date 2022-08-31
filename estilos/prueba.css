@@ -215,7 +215,7 @@
 }
 
 .pQS {
-    width: 853px;
+    width: 873px;
     height: 375px;
     font-family: 'Estedad-VF';
     font-style: normal;
@@ -229,6 +229,16 @@
     height: 500px;
 
     border-radius: 15px;
+}
+
+.link{
+    /* text-decoration: underline; */
+    text-decoration-line: none;
+    border-bottom:2px solid black ;
+    gap: 10px;
+    line-height: 25px;
+    list-style: none;
+    color: black;
 }
 
 @media(min-width: 1601px) and (max-width: 1850px) {
