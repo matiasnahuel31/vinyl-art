@@ -238,8 +238,8 @@ body {
     position: absolute;
     width: 30px;
     height: 30px;
-    /*top: 86px;
-    margin-left: 7px;*/
+    /*top: 86px;*/
+    margin-left: 7px;
 
     left: 90px;
     top: 126px;
@@ -253,8 +253,8 @@ body {
     height: 30px;
     top: 141px;
     margin-left: 7px;
-    /* left: 229px;
-    top: 178px; */
+     left: 229px;
+    top: 178px; 
 
 
 }
