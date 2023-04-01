@@ -235,14 +235,14 @@ body {
 }
 
 .search {
-    position: relative;
+    
     width: 30px;
     height: 30px;
-    top: 12rem;
     
+    margin-left: 1px;
 
    /* left: 90px;*/
-    top: 126px;
+    
 
 
 }
