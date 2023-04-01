@@ -238,8 +238,7 @@ body {
     
     width: 30px;
     height: 30px;
-    top:128px;
-    margin-left: 1px;
+   
 
    /* left: 90px;*/
     
@@ -248,10 +247,10 @@ body {
 }
 
 .cam {
-    position:relative;
+    
     width: 30px;
     height: 30px;
-    top: 9.8rem;
+    
     
     /* left: 229px;*/
   
